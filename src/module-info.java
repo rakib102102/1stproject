@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Satu
+ *
+ */
+module ForGithub {
+}
